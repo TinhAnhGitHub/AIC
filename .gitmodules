@@ -1,6 +1,6 @@
 [submodule "aic_fe"]
 	path = ./aic_fe
 	url = https://github.com/mrquantran/AIC_FE.git
-[submodule "aic_be"]
-	path = ./aic_be
-	url = https://github.com/PhucNguyenLamp/AIC_BE.git
+[submodule "AIC_BE"]
+	path = AIC_BE
+	url = git@github.com:PhucNguyenLamp/AIC_BE.git
