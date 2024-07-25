@@ -3,4 +3,4 @@
 	url = https://github.com/mrquantran/AIC_FE.git
 [submodule "AIC_BE"]
 	path = AIC_BE
-	url = git@github.com:PhucNguyenLamp/AIC_BE.git
+	url = https://github.com/PhucNguyenLamp/AIC_BE
