@@ -3,7 +3,7 @@
 	url = https://github.com/mrquantran/AIC_FE.git
 [submodule "AIC_BE"]
 	path = AIC_BE
-	url = https://github.com/PhucNguyenLamp/AIC_BE
+	url = https://github.com/mrquantran/AIC_BE
 [submodule "RAM-migration"]
 	path = RAM-migration
 	url = https://github.com/mrquantran/RAM-migration
