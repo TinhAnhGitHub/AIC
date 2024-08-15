@@ -1,9 +1,16 @@
 [submodule "AIC_FE"]
 	path = AIC_FE
 	url = https://github.com/mrquantran/AIC_FE.git
+	branch = master
 [submodule "AIC_BE"]
 	path = AIC_BE
 	url = https://github.com/mrquantran/AIC_BE
+	branch = master
 [submodule "RAM-migration"]
 	path = RAM-migration
 	url = https://github.com/mrquantran/RAM-migration
+	branch = master
+[submodule "OCR_Process"]
+	path = OCR_Process
+	url = https://github.com/mrquantran/OCR_Process
+	branch = master
